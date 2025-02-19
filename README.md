@@ -8,7 +8,7 @@ GKD-pixel2のStockOSをベースにしたCFWです。
 
 
 # ダウンロード
-ここからSDイメージファイルをダウンロードできます。
+[ここからSDイメージファイルをダウンロードできます](https://github.com/game-de-it/plumOS-pixel2/releases/tag/plumOS-pixel2_v0.1)
 
 
 # 基本機能
