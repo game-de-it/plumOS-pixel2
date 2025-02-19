@@ -28,6 +28,10 @@ GKD-pixel2のStockOSをベースにしたCFWです。
 | SELECT + DPAD LEFT,RIGHT | 画面輝度の調整 |
 
 
+# USBマスストレージ機能について
+- windows PCとpixel2をUSBケーブルで接続するとSDカードの情報を閲覧することができ、ROMファイルの転送をすることが可能です
+
+
 # picoarchについて
 - picoarchの利用方法
   - Emulationstation
