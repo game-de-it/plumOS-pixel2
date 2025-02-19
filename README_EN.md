@@ -28,6 +28,10 @@ You can download the SD image file from here.
 | SELECT + DPAD LEFT,RIGHT | Adjust screen brightness |
 
 
+# About the USB mass storage function
+- If you connect a Windows PC and a pixel2 with a USB cable, you can view the information on the SD card and transfer ROM files.
+
+
 # About picoarch
 - How to use picoarch
   - EmulationStation
